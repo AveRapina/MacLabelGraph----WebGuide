@@ -16,7 +16,7 @@ User parameter: 3 corrections zones (hysteresis, slow, fast), motor speed (RPM),
 
 ## Videos
 
-[![Youtube Link](https://github.com/HSOFEUP/MacLabelGraph----WebGuide/master/Images/GitThumbnail.jpg)](https://youtu.be/_iY6yd63SaA)  
+[![Youtube Link](https://github.com/HSOFEUP/MacLabelGraph----WebGuide/master/Images/GitThumbnail.jpg)(https://youtu.be/_iY6yd63SaA)  
 
 
 ## Contributors
